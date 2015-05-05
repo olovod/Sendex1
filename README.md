@@ -1,4 +1,4 @@
-## Sendex
+## Sendex 1
 
 Sendex is a base Extra template that is useful when wanting to create a new
 Extra for MODx Revolution. One can git archive from this repository to start
